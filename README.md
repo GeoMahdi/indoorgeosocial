@@ -5,4 +5,6 @@ first text
 another example
 and 
 some more 
-text
+textthis is a test
+
+third test
